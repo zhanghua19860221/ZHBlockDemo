@@ -27,6 +27,9 @@
     [btn addTarget:self action:@selector(pushNextPage) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:btn];
     
+    
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 -(void)pushNextPage{
