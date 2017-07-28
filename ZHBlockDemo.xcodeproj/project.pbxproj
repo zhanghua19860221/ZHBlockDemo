@@ -436,7 +436,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = P2KXZFAMHQ;
-				GCC_PREFIX_HEADER = /Users/zhanghua0221/Desktop/ZHBlockDemo/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/zhanghua0221/Desktop/ZHBlockDemo/ZHBlockDemo/PrefixHeader.pch;
 				INFOPLIST_FILE = ZHBlockDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = QiKunKeJi.com.cn.ZHBlockDemo;
@@ -449,7 +449,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = P2KXZFAMHQ;
-				GCC_PREFIX_HEADER = /Users/zhanghua0221/Desktop/ZHBlockDemo/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/zhanghua0221/Desktop/ZHBlockDemo/ZHBlockDemo/PrefixHeader.pch;
 				INFOPLIST_FILE = ZHBlockDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = QiKunKeJi.com.cn.ZHBlockDemo;
@@ -526,6 +526,7 @@
 				707211201E8511AA000DD6F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		707211211E8511AA000DD6F5 /* Build configuration list for PBXNativeTarget "ZHBlockDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -534,6 +535,7 @@
 				707211231E8511AA000DD6F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		707211241E8511AA000DD6F5 /* Build configuration list for PBXNativeTarget "ZHBlockDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +544,7 @@
 				707211261E8511AA000DD6F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
