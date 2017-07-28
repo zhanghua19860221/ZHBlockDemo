@@ -19,7 +19,7 @@
     
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor grayColor];
-    
+    self.view.backgroundColor = [UIColor greenColor];
     UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
     btn.frame = CGRectMake(40, 200, 300, 50);
     btn.backgroundColor = [UIColor orangeColor];
